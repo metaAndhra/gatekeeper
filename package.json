@@ -1,0 +1,11 @@
+{
+  "name": "meta-andhra-gatekeeper",
+  "version": "0.1.0",
+  "description": "Gatekeep the MetaAndhra Discord Server",
+  "main": "index.js",
+  "author": "LowNightSnack",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
